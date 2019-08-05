@@ -1,6 +1,6 @@
 {
     "name": "premmohantyagi/contact",
-    "description": "This is a contact form with email",
+    "description": "This is a contact form with email to Store in DB",
     "type": "laravel",
     "license": "MIT",
     "authors": [
@@ -16,5 +16,5 @@
         "psr-4": {
             "Premmohantyagi\\Contact\\": "src/"
         }
-    },
+    }
 }
