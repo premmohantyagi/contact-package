@@ -1,5 +1,5 @@
 <?php
 
 return [
-	'send_email_to' => 'prem@extreme-agile.com'
+	'send_email_to' => 'abc@abc.com'
 ];
